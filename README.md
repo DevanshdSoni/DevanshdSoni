@@ -5,12 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=devanshdsoni&color=blue)
 
 
-### 📊 GitHub Stats
-
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshdsoni&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshdsoni&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🔥 Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devanshdsoni&theme=dark)](https://git.io/streak-stats)
@@ -34,6 +28,15 @@
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose, PHP, MySQL
 - **Other Technologies:** Next.js, Three.js, WebSocket, Socket.IO, AWS
 - **Tools & Platforms:** Git, GitHub, AWS EC2
+
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshdsoni&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshdsoni&show_icons=true&theme=radical)
+
+
 
 
 ### 📫 Let's Connect!
